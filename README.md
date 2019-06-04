@@ -6,9 +6,9 @@
 ###### header 6 
 
 ##### Basic text-styling 
-**Bold**
-***Bold & Italicized***
-_Italics_ 
+**Bold**           
+***Bold & Italicized***               
+_Italics_          
  
  ##### Unordered & Ordered lists 
 
